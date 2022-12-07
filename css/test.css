@@ -1,0 +1,13 @@
+body{
+    background-color: #E5E5E5;
+}
+.crud{
+    background-color: #FEFEFE;
+}
+
+.table {
+    background-color : #FEFEFE  ;
+}
+.waves{
+    z-index: -9999;
+}
